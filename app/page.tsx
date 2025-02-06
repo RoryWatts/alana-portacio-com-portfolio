@@ -4,19 +4,14 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Rory Watts
+        Alana Portacio
       </h1>
       <div className="space-y-2 text-sm">
         <p>
-          {`I'm the CEO of `}
-          <a href="https://forecasthealth.org" className="underline hover:text-gray-600">
-            Forecast Health International
-          </a>
-          {`, a company that makes mathematical models for health, 
-            and makes the software that uses those models.`}
+          I'm a Speech Pathologist and Research Assistant at Catholic Education Western Australia and Curtin University in the Greater Perth Area.
         </p>
         <p>
-          I like reading, computers, linux, AI, music, singing, walking, my family and friends.
+          I specialize in early intervention and paediatrics—with a particular focus on hearing loss, neurodiversity, trauma/mental health, and motor speech conditions. I am passionate about delivering family-centred, strengths-based, and neuro-affirming interventions that empower caregivers, educators, and children. I am also dedicated to mentoring and educating early-career Speech Pathologists.
         </p>
       </div>
       <div className="my-8">

@@ -11,15 +11,15 @@ import { baseUrl } from './sitemap'
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: 'Rory Watts',
-    template: '%s | Rory Watts',
+    default: 'Alana Portacio',
+    template: '%s | Alana Portacio',
   },
-  description: 'CEO of Forecast Health International. I like reading, computers, linux, AI, music, singing, walking, my family and friends.',
+  description: "Speech Pathologist and Research Assistant at Catholic Education Western Australia and Curtin University in the Greater Perth Area. Specializing in early intervention and paediatrics—with a focus on hearing loss, neurodiversity, trauma/mental health, and motor speech conditions. Passionate about delivering family-centred, strengths-based, and neuro-affirming interventions while mentoring early-career Speech Pathologists.",
   openGraph: {
-    title: 'Rory Watts',
-    description: 'CEO of Forecast Health International. I like reading, computers, linux, AI, music, singing, walking, my family and friends.',
+    title: 'Alana Portacio',
+    description: "Speech Pathologist and Research Assistant at Catholic Education Western Australia and Curtin University in the Greater Perth Area. Specializing in early intervention and paediatrics with a focus on hearing loss, neurodiversity, trauma/mental health, and motor speech conditions.",
     url: baseUrl,
-    siteName: 'Rory Watts',
+    siteName: 'Alana Portacio',
     locale: 'en_US',
     type: 'website',
   },
@@ -36,7 +36,8 @@ export const metadata: Metadata = {
   },
 }
 
-const cx = (...classes) => classes.filter(Boolean).join(' ')
+const cx = (...classes: (string | false | null | undefined)[]) =>
+  classes.filter(Boolean).join(' ')
 
 export default function RootLayout({
   children,
