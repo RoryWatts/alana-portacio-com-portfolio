@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { BlogPosts } from 'app/components/posts'
 
 export default function Page() {
@@ -6,6 +7,15 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         Alana Portacio
       </h1>
+      <div className="my-4 flex justify-center">
+        <Image
+          src="/alana.jpeg"
+          alt="Alana Portacio"
+          width={180}
+          height={180}
+          className="rounded-full"
+        />
+      </div>
       <div className="space-y-2 text-sm">
         <p>
           I'm a Speech Pathologist and Research Assistant at Catholic Education Western Australia and Curtin University in the Greater Perth Area.
