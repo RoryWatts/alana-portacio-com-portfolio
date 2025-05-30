@@ -8,8 +8,7 @@ export default function CVPage() {
         <h2 className="text-xl font-medium mb-4">Contact Details</h2>
         <div className="space-y-1 text-sm">
           <p>Alana Portacio (Nee - Watts)</p>
-          <p>57a Third Avenue, Bassendean, Western Australia, 6054</p>
-          <p>Telephone: 0400 736 864</p>
+          <p>Perth-Metro, Western Australia</p>
           <p>Email: alanapspeech@gmail.com</p>
           <p>Australian Citizen</p>
         </div>
@@ -29,6 +28,7 @@ export default function CVPage() {
       <div className="mb-8">
         <h2 className="text-xl font-medium mb-4">Educational Background</h2>
         <ul className="list-disc list-inside text-sm space-y-1">
+          <li>2024/2025: Berry Street Education Model - Curriculum and Classroom Strategies</li>
           <li>2017: Hanen Certified (It Takes Two To Talk) – Hanen Centre</li>
           <li>2016: PROMPT Trained – PROMPT Institute</li>
           <li>2016: Key Word Sign – Basic Training Workshop</li>
@@ -53,35 +53,33 @@ export default function CVPage() {
           <li>
             <strong>Communication and Collaboration:</strong> Superior verbal and written
             communication skills, enabling effective collaboration with clients, families,
-            educators, and multidisciplinary teams.
+            educators, and multidisciplinary teams. Adept at liaising with professionals to ensure cohesive support for children.
           </li>
           <li>
-            <strong>Neurodiversity Advocacy:</strong> Strong advocate for Neurodiverse
-            Affirming Practices, ensuring inclusive and supportive environments for
-            neurodiverse individuals.
+            <strong>Neurodiversity Affirming Practitioner:</strong> Strong advocate for Neurodiverse
+            Affirming Practices within therapy, community and school contexts. Committed to education in this area and direct practice, ensuring empathy, understanding, inclusion and creating supportive environments for neurodivergent individuals.
           </li>
           <li>
-            <strong>Client and Group Management:</strong> Proven ability to plan and manage
-            individual client sessions and facilitate small to medium-sized therapy groups.
+            <strong>Service Delivery:</strong> Proven ability to plan and manage therapy from an individual level to a large scale (small therapy group, playgroups, classrooms). Skilled in adapting strategies to meet diverse needs and achieve therapeutic goals.
           </li>
           <li>
             <strong>Educational Engagement:</strong> Passionate about educating and training
             carers, teachers, and support networks. Experienced in delivering professional
-            development sessions.
+            development sessions and workshops to enhance understanding of communication needs.
           </li>
           <li>
             <strong>Autonomous Work Ethic:</strong> Highly experienced in working
             independently, managing complex caseloads, and organising schedules to maximise
-            efficiency and client outcomes.
+            efficiency and therapeutic outcomes.
           </li>
           <li>
             <strong>Technical Proficiency:</strong> Proficient in using Cliniko for practice
-            management, as well as MS Office Suite, including Word, Excel, and Outlook.
+            management, as well as MS Office Suite, including Word, Excel, and Outlook. Knowledgeable in navigating NDIS and Medicare processes for early intervention and school-aged populations.
           </li>
           <li>
             <strong>Cultural Competence:</strong> Experienced in working with children and
-            families from diverse cultural backgrounds, ensuring culturally sensitive
-            interventions.
+            families from diverse cultural and economic backgrounds, ensuring population-sensitive
+            and tailored interventions.
           </li>
         </ul>
       </div>
@@ -94,7 +92,7 @@ export default function CVPage() {
           <div>
             <p className="font-semibold">
               2024 - Present: Speech Pathologist, Mary MacKillop Catholic Community Primary
-              School, Ballajura, WA (Catholic Education Western Australia)
+              School (Catholic Education Western Australia or CEWA)
             </p>
             <ul className="list-disc list-inside pl-5 space-y-1 mt-1">
               <li>Deliver comprehensive speech and language services to support student communication and learning.</li>
@@ -104,8 +102,9 @@ export default function CVPage() {
               <li>Liaise with parents and external service providers, including NDIS.</li>
               <li>Serve as a case worker for NDIS-funded students.</li>
               <li>Support teachers in adapting classroom environments for diverse needs.</li>
-              <li>Recommend and implement school-wide strategies like Trauma-Informed Education.</li>
-              <li>Provide professional development for Education Support staff.</li>
+              <li>Recommend and implement school-wide strategies like Trauma-Informed Education from the Berry Street Education Model (BSEM).</li>
+              <li>Provide professional development for teaching staff.</li>
+              <li>Provide professional development for Student Speech Pathologists and Student Occupational Therapists from Curtin University.</li>
               <li>Maintain accurate records and support funding applications.</li>
             </ul>
           </div>
@@ -117,10 +116,10 @@ export default function CVPage() {
               Portacio Speech Pathologist
             </p>
             <ul className="list-disc list-inside pl-5 space-y-1 mt-1">
-              <li>Collaborate with a psychologist to conduct Autism assessments and participate in the multidisciplinary diagnostic process.</li>
-              <li>Provide speech pathology support to children (ages 3-8) and their caregivers in community settings.</li>
-              <li>Work with children with diverse needs, including hearing loss, DLD, GDD, and more.</li>
-              <li>Educate and empower caregivers and educators to support children with communication needs.</li>
+              <li>I currently collaborate with a Psychologist to conduct Autism assessments and participate in the multidisciplinary diagnostic process.</li>
+              <li>Provided speech pathology support to children (ages 3-8) and their caregivers in community settings.</li>
+              <li>Worked with children with diverse needs, including hearing loss, Developmental Language Disorder (DLD), Global Developmental Delay (GDD) and Autism.</li>
+              <li>Educated and empowered caregivers and educators to support children with communication needs.</li>
             </ul>
           </div>
 
@@ -129,24 +128,35 @@ export default function CVPage() {
             <p className="font-semibold">
               February 2022 - Present: Research Assistant/Sessional Academic, Curtin University
             </p>
+            <p className="mb-2">Roles I undertook included:</p>
             <ul className="list-disc list-inside pl-5 space-y-1 mt-1">
               <li>
-                <strong>Clinical Education at Majella Catholic Primary School (Terms 1-3 2022):</strong> Similar responsibilities to previous Clinical Educator role, supervising
-                students, and liaising with school staff.
+                <strong>Clinical Educator at Majella Catholic Primary School (terms 1-3 2022):</strong> Supervised and assessed Speech Pathology students in primary school settings; Liaised with school staff to prioritise children for intervention; Provided feedback on students' written communication and performance.
               </li>
               <li>
-                <strong>Tutor for Fundamentals of Management in Allied Health Practice (2022):</strong> Co-taught tutorials, marked assignments and oral exams, attended team
-                meetings.
+                <strong>Tutor for unit; Fundamentals of Management in Allied Health Practice (2022):</strong> Responsibilities included; co-teaching the tutorial associated with the unit each week during one semester, marking student assignments and marking student practical examinations (VIVAS), attendance of team meetings each week.
               </li>
               <li>
-                <strong>Sessional marking (2022-2023):</strong> Marked student assignments and practical exams for the Speech Pathology undergraduate degree on a casual basis.
+                <strong>Sessional marking for assignments and practical exams (2022-2023):</strong> additional marking of student assignments and practical exams for the Speech Pathology undergraduate degree at Curtin University.
               </li>
               <li>
-                <strong>Research Assistant (2022 to present):</strong> Assisted with various
-                research projects, including data collection, participant consent, standardised
-                assessments, liaising with stakeholders, and preparing reports and themes.
+                <strong>Research Assistant (2022 to present):</strong> assisted/assisting with the following projects:
+                <ul className="list-disc list-inside pl-5 mt-1">
+                  <li>Profiling the language skills of adolescents in Curriculum and Reengagement in Education (CARE) Schools in WA</li>
+                  <li>The Young Children's Speech Development study</li>
+                </ul>
+                Responsibilities related to these studies included; liaising with participants and gaining consent to participate, collection of data from participants (completing interviews, questionnaires and standardised assessments), liaising with individuals involved in the participant's care (parents, Teachers, Youth Workers, Psychologists), preparing reports summarising the data collected, analysing results and preparing themes related to the studies, liaising and meeting with researchers involved in each study.
               </li>
             </ul>
+            <div className="mt-4">
+              <p className="font-medium mb-2">Published Co-authored papers include:</p>
+              <p className="text-xs mb-2">Jackson, E., Portacio, A., Boyes, M., Townsend, J., & Leitão, S. (2025). AJLD early career researcher award winner 2024: developing teachers' knowledge and confidence for supporting students with speech, language, and communication needs in flexible learning program classrooms: a pilot study. Australian Journal of Learning Difficulties, 1–17. https://doi.org/10.1080/19404158.2025.2470425</p>
+              <p className="font-medium mb-2">Co-authored papers awaiting submission/review include:</p>
+              <ul className="list-disc list-inside pl-5 text-xs space-y-1">
+                <li>Cyberbullying in adolescents with neurodevelopmental disorders and difficulties: Exploring stakeholder perspectives on the suitability and effectiveness of preventative education.</li>
+                <li>Profiling the Oral Language and Psychosocial Skills of Young People Attending Flexible Learning Programmes</li>
+              </ul>
+            </div>
           </div>
 
           {/* Jan 2015 – Feb 2022: Speech Pathologist, Telethon Speech and Hearing */}
@@ -155,24 +165,19 @@ export default function CVPage() {
               January 2015 – February 2022: Speech Pathologist, Telethon Speech and Hearing
             </p>
             <ul className="list-disc list-inside pl-5 space-y-1 mt-1">
-              <li>Supported children with hearing loss in the Chatterbox Program.</li>
-              <li>Ran playgroups and individual therapy sessions.</li>
-              <li>Developed and implemented a project on service delivery models.</li>
-              <li>Worked in programs including Talkabout and Outpost.</li>
-              <li>Supervised final-year students and delivered presentations on speech and language topics.</li>
+              <li>Supported children with hearing loss and other co-occurring speech, language and communication needs in the Chatterbox (Early Intervention program for children with hearing loss), Talkabout (specialist school for children aged 2-6), Private Practice and Outpost (School-aged program for children with hearing loss) programs.</li>
+              <li>Ran playgroups and individual therapy sessions within all programs discussed.</li>
+              <li>Developed and implemented a project on service delivery models within the Chatterbox program and explored options for a mobile service.</li>
+              <li>Supervised final-year students and presented on speech and language topics.</li>
             </ul>
           </div>
 
           {/* Jan 2017 – Apr 2018: Clinical Educator, Curtin University */}
           <div>
             <p className="font-semibold">
-              January 2017 – April 2018: Clinical Educator, Curtin University
+              January 2017 – April 2018: Clinical Educator at St Brigid's Primary School, Curtin University
             </p>
-            <ul className="list-disc list-inside pl-5 space-y-1 mt-1">
-              <li>Supervised and assessed Speech Pathology students in primary school settings.</li>
-              <li>Liaised with school staff to prioritise children for intervention.</li>
-              <li>Provided feedback on students' written communication and performance.</li>
-            </ul>
+            <p className="mt-1 text-sm">Responsibilities in this role were similar to those discussed in my previous role as a Clinical Educator (see above).</p>
           </div>
 
           {/* Jan 2014 - Oct 2015: Speech Pathologist, Fremantle Speech Pathology Services */}
@@ -181,7 +186,7 @@ export default function CVPage() {
               January 2014 - October 2015: Speech Pathologist, Fremantle Speech Pathology Services
             </p>
             <ul className="list-disc list-inside pl-5 space-y-1 mt-1">
-              <li>Managed a caseload of clients with speech, language, and literacy difficulties.</li>
+              <li>Managed a caseload of clients with speech, language, communication and literacy difficulties.</li>
               <li>Developed expertise in literacy development through mentorship and professional development.</li>
             </ul>
           </div>
@@ -214,7 +219,7 @@ export default function CVPage() {
       <div className="mb-8">
         <h2 className="text-xl font-medium mb-4">Affiliations / Memberships</h2>
         <ul className="list-disc list-inside text-sm space-y-1">
-          <li>2024 - Present: School Board Parent Member, Anzac Terrace Primary School</li>
+          <li>2024 - Present: School Board Parent Member</li>
           <li>2022 - Present: Language and Literacy in Young People Research Group (LaLYP) Committee Member</li>
           <li>2012-2023: Speech Pathology Australia Member</li>
         </ul>

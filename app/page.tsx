@@ -21,7 +21,7 @@ export default function Page() {
           I'm a Speech Pathologist and Research Assistant at Catholic Education Western Australia and Curtin University in the Greater Perth Area.
         </p>
         <p>
-          I specialize in early intervention and paediatrics—with a particular focus on hearing loss, neurodiversity, trauma/mental health, and motor speech conditions. I am passionate about delivering family-centred, strengths-based, and neuro-affirming interventions that empower caregivers, educators, and children. I am also dedicated to mentoring and educating early-career Speech Pathologists.
+          I specialise in early intervention and paediatrics—with a particular focus on hearing loss, neurodiversity, trauma/mental health, and motor speech conditions. I am passionate about delivering family-centred, strengths-based, and neuro-affirming interventions that empower caregivers, educators, and children. I am also dedicated to mentoring and educating early-career Speech Pathologists.
         </p>
       </div>
       <div className="my-8">

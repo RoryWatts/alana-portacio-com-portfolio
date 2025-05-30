@@ -14,13 +14,13 @@ export const metadata: Metadata = {
     default: 'Alana Portacio',
     template: '%s | Alana Portacio',
   },
-  description: "Speech Pathologist and Research Assistant at Catholic Education Western Australia and Curtin University in the Greater Perth Area. Specializing in early intervention and paediatrics—with a focus on hearing loss, neurodiversity, trauma/mental health, and motor speech conditions. Passionate about delivering family-centred, strengths-based, and neuro-affirming interventions while mentoring early-career Speech Pathologists.",
+  description: "Speech Pathologist and Research Assistant at Catholic Education Western Australia and Curtin University in the Greater Perth Area. Specialising in early intervention and paediatrics—with a focus on hearing loss, neurodiversity, trauma/mental health, and motor speech conditions. Passionate about delivering family-centred, strengths-based, and neuro-affirming interventions while mentoring early-career Speech Pathologists.",
   openGraph: {
     title: 'Alana Portacio',
-    description: "Speech Pathologist and Research Assistant at Catholic Education Western Australia and Curtin University in the Greater Perth Area. Specializing in early intervention and paediatrics with a focus on hearing loss, neurodiversity, trauma/mental health, and motor speech conditions.",
+    description: "Speech Pathologist and Research Assistant at Catholic Education Western Australia and Curtin University in the Greater Perth Area. Specialising in early intervention and paediatrics with a focus on hearing loss, neurodiversity, trauma/mental health, and motor speech conditions.",
     url: baseUrl,
     siteName: 'Alana Portacio',
-    locale: 'en_US',
+    locale: 'en_GB',
     type: 'website',
   },
   robots: {
