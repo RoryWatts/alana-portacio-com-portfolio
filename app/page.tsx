@@ -27,6 +27,15 @@ export default function Page() {
       <div className="my-8">
         <BlogPosts />
       </div>
+      <div className="mt-8">
+        <a
+          className="text-sm text-neutral-600 hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-100 underline"
+          href="/Alana Portacio Curriculum Vitae 2025.pdf"
+          download
+        >
+          Click here for my CV
+        </a>
+      </div>
     </section>
   )
 }
